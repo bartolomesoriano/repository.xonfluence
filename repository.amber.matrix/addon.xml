@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.amber.matrix" name="Amber Repository - Matrix" version="1.0.2" provider-name="bsoriano">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="Amber Repo">
+		<dir minversion="18.9.0">
+			<info compressed="false">https://raw.githubusercontent.com/bartolomesoriano/repo.amber.matrix/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/bartolomesoriano/repo.amber.matrix/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/bartolomesoriano/repo.amber.matrix/master</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Amber skin for Matrix</summary>
+		<description>Matrix Repository for Amber</description>
+		<platform>all</platform>
+		<news>[I]v1.0.2[/I][CR]- Fix GitHub URLd</news>
+	</extension>
+</addon>

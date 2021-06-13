@@ -1,0 +1,6 @@
+1.0.2
+- Fix GitHub URLs
+1.0.1
+- Fix Kodi version issue
+1.0.0
+- Initial Release - Matrix repo for Amber
