@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="repository.xonfluence" name="Xonfluence Repository" provider-name="bsoriano" version="1.0.0">
+<addons><addon id="repository.xonfluence" name="Xonfluence Repository" provider-name="bsoriano" version="1.0.1">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0" />
 	</requires>
@@ -14,7 +14,7 @@
 		<summary>Xonfluence skin for Matrix</summary>
 		<description>Repository for Xonfluence</description>
 		<platform>all</platform>
-		<news>[I]v1.0[/I][CR]- Initial Version</news>
+		<news>[I]v1.0.1[/I][CR]- Update Icon</news>
 	</extension>
 </addon><addon id="skin.xonfluence" name="Xonfluence" provider-name="Helly,bsoriano" version="4.1.2">
   <requires>

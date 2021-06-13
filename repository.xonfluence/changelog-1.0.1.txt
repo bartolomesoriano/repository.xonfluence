@@ -1,0 +1,4 @@
+1.0.1
+- Update icon
+1.0.0
+- Initial Release - Repo for Xonfluence
