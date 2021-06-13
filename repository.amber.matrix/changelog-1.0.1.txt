@@ -1,4 +1,0 @@
-1.0.0
-- Initial Release - Matrix repo for Amber
-1.0.1
-- Fix Kodi version issue
