@@ -1,2 +1,2 @@
-# repo.amber.matrix
-Repository for the Matrix version of the Amber skin
+# repository.xonfluence
+Repository for the Matrix version of the Xonfluence skin
