@@ -26,7 +26,7 @@
 		<description lang="en">Skin Backgrounds Pack - Xonfluence Design</description>
 		<platform>all</platform>
 	</extension>
-</addon><addon id="skin.xonfluence" name="Xonfluence" provider-name="Helly,bsoriano" version="4.1.4">
+</addon><addon id="skin.xonfluence" name="Xonfluence" provider-name="Helly,bsoriano" version="4.1.5">
   <requires>
     <import addon="xbmc.gui" version="5.15.0" />
   </requires>
